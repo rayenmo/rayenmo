@@ -27,7 +27,13 @@
       <p>Worked on client features, NPC behavior and pathfinding, as well as performance profiling and debugging.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 Games &amp; Exploration</h3>
+      <h3>🎮 What I Work On</h3>
+      <ul>
+        <li><b>Client Systems</b> · UGUI, UI frameworks and data-driven design</li>
+        <li><b>Gameplay &amp; Interaction</b> · Character controllers, state machines and NPC behavior</li>
+        <li><b>Development Tools</b> · Editor extensions and configuration workflows</li>
+      </ul>
+      <h3>🌱 Games &amp; Exploration</h3>
       <ul>
         <li><b>GameJam</b> · I enjoy taking part in game jams.</li>
         <li><b>Indie Games</b> · I'm also making my own indie game.</li>
